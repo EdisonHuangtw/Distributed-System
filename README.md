@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project on Distributed Systems and Programming
 UIUC CS425/ECE428 Fall 2023
 
