@@ -14,5 +14,4 @@ UIUC CS425/ECE428 Fall 2023
 4. (Pending) Simple MapReduce worker + NoSQL storage system  
 [MP4_README](https://github.com/Jensen895/Distributed-Systems/blob/main/README/MP4_README.md)
 =======
-# Distributed-System
->>>>>>> 3ed8bf0b43e187ac2471dce8e1f9538c8ca3b0f3
+
